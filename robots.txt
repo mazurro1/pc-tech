@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sklep.pc-tech.pl/sitemap.xml
